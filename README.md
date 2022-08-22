@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osman KOYUNCU</h1>
 <h3 align="center">A passionate python developer from Turkey</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, Python, Sql, Git**
+- 🌱 I’m currently learning **HTML, CSS, Python, Sql, Git, JavaScript, Linux, Jira, Agile**
 
 - 📫 How to reach me **osmannnkoyuncuuu@gmail.com**
 
