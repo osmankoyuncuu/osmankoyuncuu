@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi 👋, My name is Osman and I'm a Full-Stack Developer</h1>
+<h1 align="center">Hi 👋, My name is Osman and I'm a Frontend Developer</h1>
 
-- 🌱 I’m currently learning **React and Django**
+- 🌱 I’m currently learning **Node.js and Django**
 
 - 👯 I’m looking to collaborate on **Slack**
 
-- 🤝 I’m looking for help with **React and Django.**
+- 🤝 I’m looking for help with **Node.js and Django.**
 
 - 💬 Ask me anything about **HTML, CSS, JS, Bootstrap, SASS, Python, Git, Linux, JQuery and Ankara.**
 
