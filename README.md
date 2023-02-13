@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Node.js and Django.**
 
-- 💬 Ask me anything about **HTML, CSS, JS, Bootstrap, SASS, Python, Git, Linux, JQuery and Ankara.**
+- 💬 Ask me anything about **JavaScript, TypeScript, React.js, Next.js, JQuery, SASS, Style Component, Python, Git, Linux and Ankara.**
 
 - 📫 How to reach me **osmannnkoyuncuuu@gmail.com**
 
