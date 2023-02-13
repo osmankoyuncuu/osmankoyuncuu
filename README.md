@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, My name is Osman and I'm a Frontend Developer</h1>
+<h1 align="center">Hi 👋, My name is Osman and I'm a Full Stack Developer</h1>
 
 - 🌱 I’m currently learning **Node.js and Django**
 
